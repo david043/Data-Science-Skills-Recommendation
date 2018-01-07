@@ -1,0 +1,24 @@
+Data Scientist
+Apple
+The data scientist will work on current and future products in the following ways:
+Analysis Data and incoming issues
+Deep-dive Failure Analysis
+Discovering new perspectives for old data
+Build tools for analyzing data
+Produce data visualizations to communicate up and across the company
+
+Key Qualifications
+A curious mind
+An obsession for quality
+Background in Data science & Data mining
+Multivariate statistics, Computer vision & Machine learning
+Experience working with bug tracking system
+Experience working with large scale data sets
+Solid programming skills including: Python, C/C++
+Experience with data visualization and presentation
+Excellent problem solving and communication skills
+
+Description
+The Video Engineering group is looking for a data scientist with a strong emphasis on deep system understanding through data analysis and data mining. This position will require interfacing with multiple teams (machine learning, cloud infrastructure support).
+Education
+PhD or Masters in Computer Science, Machine Learning, Computer Vision, Mathematics, or similar, alternatively a comparable industry career, with significant experience in large-scale data analytics.
